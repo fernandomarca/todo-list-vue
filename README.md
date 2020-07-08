@@ -1,9 +1,5 @@
 # Tutorial: Aplicação Todo List com Vue.js 2
 
-<p align="center">
-  <img src="https://i.imgsafe.org/41/4157b4c1ad.jpeg"/>  
-</p>
-
 Repositório responsável pelo desenvolvimento de um TODO-List com Vue.js 2.
 
 ## Recursos Utilizados Durante o Desenvolvimento: :rocket:
